@@ -130,7 +130,7 @@ What belongs in the printout of an object? (work in progress)
 - object data (the data the object's class interprets)
     - size (number of elements, number of rows x columns, number of dimensions, etc.)
     - class (the data or fields' classes)
-    - output cutoff (the limit for displaying underlying data, e.g. tibbles cut off at 10 rows)
+    - output cutoff (a display limit for underlying data, e.g. tibbles cut off at 10 rows)
     - representation of truncated data (when data are truncated how does one meaningfully convey a summary of the remaining data)
 - output format
     - one of,
